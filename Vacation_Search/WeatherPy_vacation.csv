@@ -94,7 +94,7 @@ City_ID,City,Country,Max Temp,Current Weather,Lat,Lng,Hotel Name
 278,Auki,SB,77.49,clear sky,-8.77,160.7,Auki Motel
 279,Houma,US,87.01,broken clouds,29.6,-90.72,Courtyard by Marriott Houma
 281,Kavaratti,IN,82.31,light rain,10.57,72.64,Hotels in Lakshadweep Islands
-291,Tam Ky,VN,77.0,moderate rain,15.57,108.48,Tam Ky Hotels - Tram Oanh Hotel
+291,Tam Ky,VN,77.0,moderate rain,15.57,108.48,Nhà Nghỉ Phương Hòa
 294,Union City,US,87.01,clear sky,37.6,-122.02,Holiday Inn Express Union City (San Jose)
 295,Nagaur,IN,80.47,clear sky,27.2,73.73,Ranvas Nagaur
 296,Bathsheba,BB,86.0,scattered clouds,13.22,-59.52,Atlantis Hotel
@@ -148,7 +148,7 @@ City_ID,City,Country,Max Temp,Current Weather,Lat,Lng,Hotel Name
 435,Oussouye,SN,87.8,scattered clouds,12.48,-16.55,Auberge du Routard
 436,Esna,EG,89.6,clear sky,25.29,32.55,Orient Star Dahabyia Isna 05 Nights Each Sunday
 440,Yanam,IN,76.68,light rain,16.73,82.22,The Regency Hotel
-441,Alugan,PH,76.73,overcast clouds,12.22,125.48,BEMBEM RAIN FEED RESORT
+441,Alugan,PH,76.73,overcast clouds,12.22,125.48,JM Lodge
 444,Padang,ID,78.35,moderate rain,-0.95,100.35,Mercure Padang
 446,Korhogo,CI,76.98,light rain,9.45,-5.63,Hotel Le Recul
 447,Vila Velha,BR,78.01,light rain,-20.33,-40.29,Hotel Vitória Palace
@@ -222,12 +222,12 @@ City_ID,City,Country,Max Temp,Current Weather,Lat,Lng,Hotel Name
 658,Loandjili,CG,78.8,broken clouds,-4.76,11.86,Résidence ARCHANGE
 661,Cabedelo,BR,84.2,scattered clouds,-6.98,-34.83,Lua Mansa Pousada
 666,Ormara,PK,84.07,clear sky,25.21,64.64,
-669,Sola,VU,80.6,broken clouds,-13.88,167.55,Leumerus Bungalows
+669,Sola,VU,80.6,broken clouds,-13.88,167.55,Ulkel Guest House
 671,Santiago,CL,86.0,clear sky,-33.46,-70.65,Hotel Panamericano
 672,Kabalo,CD,75.83,clear sky,-6.05,26.92,
 673,Dostpur,IN,80.15,clear sky,26.28,82.47,Siddiqui house
 683,Coahuayana,MX,84.2,scattered clouds,18.73,-103.68,Hotel Los Arcos
 684,Pangai,TO,77.0,broken clouds,-19.8,-174.35,Ha'apai Beach Resort
-686,Bubaque,GW,82.56,few clouds,11.28,-15.83,Casa Dora - Mango Lodge
+686,Bubaque,GW,82.56,few clouds,11.28,-15.83,"Casa Dora, Bubaque"
 693,Phan Thiet,VN,76.42,moderate rain,10.93,108.1,Hotel Saigon-PT
 705,Epe,NG,76.95,broken clouds,6.58,3.98,MAGVILLE HOTEL
